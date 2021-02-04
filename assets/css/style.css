@@ -20,10 +20,10 @@ body {
     color: #7e29df;
     border: solid 1px #28c5bd80;
     width: 75px;
-    height: 30px;
+    height: 35px;
     font-size: 14pt;
 }
 
-/* .container {
-    border: solid 1px black;
-} */
+#cityName {
+    text-align: center;
+}
