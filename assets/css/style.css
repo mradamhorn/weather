@@ -1,24 +1,30 @@
 body {
-    background-color: #ffffff;
+    background-image: url(https://stormandsky.com/gif/9.gif);
+
 }
 
 .navbar {
-    background-color: #28c5bdab;
+    background-color: #700000;
 }
 
 .nav-link {
-    color: #7e29df;
+    color: #c0bfbf;
 }
 
+.container {
+    background-color: rgba(245, 245, 220, 0.616);
+    padding: 15px;
+    height: 550px;
+}
 .search-prompt {
     text-align: right;
     font-size: 16pt;
 }
 
 .search-button {
-    background-color: #28c5bd80;
-    color: #7e29df;
-    border: solid 1px #28c5bd80;
+    background-color: #700000;
+    color: #ffffff;
+    border: #700000;
     width: 75px;
     height: 35px;
     font-size: 14pt;
