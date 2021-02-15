@@ -1,6 +1,5 @@
 body {
     background-image: url(https://stormandsky.com/gif/9.gif);
-
 }
 
 .navbar {
@@ -11,14 +10,18 @@ body {
     color: #c0bfbf;
 }
 
-.container {
-    background-color: rgba(245, 245, 220, 0.616);
+.search-container {
+    background-color: #f5f5dc9d;
     padding: 15px;
-    height: 550px;
+    height: 70px;
+}
+
+#city-input {
+    font-size: 16pt;
 }
 .search-prompt {
     text-align: right;
-    font-size: 16pt;
+    font-size: 20pt;
 }
 
 .search-button {
@@ -30,6 +33,17 @@ body {
     font-size: 14pt;
 }
 
+.weather-container {
+    background-color: #f5f5dc9d;
+    padding: 15px;
+    height: 450px;
+}
+
 #cityName {
     text-align: center;
+}
+
+.weather-row {
+    margin-left: 5%;
+
 }
